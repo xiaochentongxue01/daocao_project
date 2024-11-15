@@ -14,11 +14,6 @@
         <module>daocao_support</module>
         <module>daocao_auth</module>
         <module>daocao_stater</module>
-        <module>daocao_sys_user</module>
-        <module>daocao_common</module>
-        <module>daocao_support</module>
-        <module>daocao_auth</module>
-        <module>daocao_stater</module>
     </modules>
     <!-- 只定义版本   -->
     <packaging>pom</packaging>
